@@ -33,4 +33,4 @@ Este repositorio contiene las certificaciones que respaldan mi formación y habi
 *   **[Microsoft Access Básico](./Netzun_Microsoft_Access.pdf)** - *Netzun*
 
 ---
-*Contacto: [LinkedIn](https://www.linkedin.com/in/MaykerC) | [GitHub](https://github.com/MaykerC)*
+*Contacto: [LinkedIn](https://www.linkedin.com/in/MaykerC) | [GitHub](https://github.com/MaykerCordova)*
